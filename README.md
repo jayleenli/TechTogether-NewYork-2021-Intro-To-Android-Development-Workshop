@@ -1,4 +1,4 @@
-# TechTogether-NewYork-2021-Intro-To-Android-Developerment-Workshop
+# TechTogether-NewYork-2021-Intro-To-Android-Development-Workshop
 
 **Workshop date:** October 15th, 2021  
 **Hosted by:** Jayleen Li
